@@ -14,3 +14,4 @@ Proceeding in using this modlist means you understand and agree to the following
 7. If you have a mod you think would fit well into the theme of the list - let me know.
 8. Don't get upset if #7 doesn't make it into the modlist - too many reasons to list why it might not fit in
 9. This list is evergreen - this is a living document that will be updated as needed.
+10. You must own the Anniversary Addition of Skyrim, and have the Skyrim Creation Kit installed.
