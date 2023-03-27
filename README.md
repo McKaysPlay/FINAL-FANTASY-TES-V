@@ -11,6 +11,7 @@ An actively curated collection of Skyrim mods that focus on game play, handsome 
 ## REQUIREMENTS
 <details>
   
+- Steam copy of Skyrim Anniversary Edition  
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [VectorPlexus Account](https://vectorplexis.com/)
 
