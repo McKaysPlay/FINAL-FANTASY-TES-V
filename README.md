@@ -14,11 +14,11 @@ A Skyrim Wabbajack modlist
  
 ## INSTALLATION
 <details>
-###  Installing Microsoft Visual C++ Redistributable Package
+### Installing Microsoft Visual C++ Redistributable Package
 
 The _Microsoft Visual C++_ redistributable package is required for _Mod Organizer 2_ and you can download it from _Microsoft._ Download the x64 version under "Visual Studio 2015, 2017 and 2019" [here](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
-###  Steam Config
+### Steam Config
 
 **Change Steam's Update Behavior**
 
