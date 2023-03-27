@@ -107,12 +107,13 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 
 ## HOW TO LAUNCH THE GAME
 <details>
-  01. Navigate to the location where you installed the Wabbajack list
-  02. Open Mod Organizer.exe
-  03. Use the drop down list in the top right corner of Mod Organizer to select _Final Fantasy TES V_
-  04. Click Run in the top right corner of Mod Organizer.
-  05. Wait a few minutes while Skyrim boots up to the Main Menu
-  06. Seriously, it takes a bit to get everything loaded
+  
+01. Navigate to the location where you installed the Wabbajack list
+02. Open Mod Organizer.exe
+03. Use the drop down list in the top right corner of Mod Organizer to select _Final Fantasy TES V_
+04. Click Run in the top right corner of Mod Organizer.
+05. Wait a few minutes while Skyrim boots up to the Main Menu
+06. Seriously, it takes a bit to get everything loaded
 
 </details>
 
