@@ -1,4 +1,7 @@
 # FINAL FANTASY TES V
+
+![FINAL FANTASY TES V Title Image](https://github.com/McKaysPlay/FINAL-FANTASY-TES-V/blob/main/Final%20Fantasy%20TES%20V%20logo%20smaller.png)
+
 A Skyrim Wabbajack modlist
 
 If you are seeing this, then you are part of the testing group.
