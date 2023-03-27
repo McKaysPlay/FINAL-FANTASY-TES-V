@@ -4,6 +4,10 @@
 
 A Skyrim Wabbajack modlist
 
+## INTRODUCTION
+
+An actively curated collection of Skyrim mods that focus on game play, handsome NPCs, quality content, wonderous weapons, modern combat, fun spells & abilities, and multi-layered character progression. We also have LOTD for all your hoarding/collecting needs. NOTE: This modlist is less focused on being true to lore.
+
 ## REQUIREMENTS
 <details>
   
@@ -50,15 +54,53 @@ You will experience unusual behavior if your `My Games` folder (usually in the `
 
 Exclude antivirus and anti-malware programs from monitoring three directories: those containing the _Wabbajack_ app, the _Skyrim Special Edition_ game folder, and the directory in which you wish to install the modlist. _Wabbajack_ and _Mod Organizer 2_ both use low-level file system virtualization which most anti-malware programs falsely detect as malicious. 
 
-Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions and cannot be completely disabled -- they must be fully uninstalled. Please consider avoiding third-party anti-malware solutions and relying on _Windows Defender,_ which is more compatible with the applications used to install and play _Wabbajack_ modlists. 
+Particularly intrusive malware solutions such as _Bitdefender_ and _Webroot_ don't propery respect exclusions and cannot be completely disabled -- they must be fully uninstalled.
 
 **Set Pagefile to 40GB Or Above**
 
-This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. MOre than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
+This can be accomplished in the System Settings for Windows. It is recommended to set the minimum and maximum pagefile size to `40,960` all on one solid state drive as mentioned above. More than one pagefile is not needed so long as it is large enough and located on a fast enough drive.
 
 **Ensure Enough Free Storage Space**
 
-FINAL FANTASY TES V requires **223GB** of space for the install and **134GB** of space for the downloads. You can have these located on seperate drives, or on the same drive for a total space requirement of **357GB**. Finally, never reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer performance problems.
+FINAL FANTASY TES V requires **223GB** of space for the install and **134GB** of space for the downloads. You can have these located on seperate drives, or on the same drive for a total space requirement of **357GB**. Finally, I don't recommend reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer performance problems.
+  
+</details>
+  
+##  USING WABBAJACK
+<details>
+
+The download and installation process can take a very long time depending on your system specs. 
+
+It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the modlist folder, and the downloads folder) on a solid state drive. Do not place any of these folders on a hard disk drive, flash drive, or external drive of any kind. After the list is installed, you can relocate **only** the downloads folder to such a drive.
+
+</details>
+
+##  PROBLEMS WITH WABBAJACK
+<details>
+
+There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
+
+**DO NOT CONTACT MOD AUTHORS DIRECTLY.**
+
+I, McKaysPlay, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Vector Plexus_, or any other site about bugs that may result from this lists' use. Direct your questions to me, not the mod authors who should never be expected to support a modlist setup.
+
+**Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
+
+You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Purchase it, verify it, delete it and re-download it if necessary, and try again.  
+
+Again, if you don't / didn't see the below you don't have the AE version installed.
+
+[Skyrim Anniversary Edition Download prompt](https://preview.redd.it/nt92sg8mdxy71.png?width=3840&format=png&auto=webp&v=enabled&s=4ab3b1b975064119797409185cedd9dfc5c5e5e7)
+
+_Source: [Reddit Post](https://www.reddit.com/r/skyrim/comments/qrgion/screenshots_on_xbox_series_x/)_
+
+**Could not download x:**
+
+Some Internet providers have difficulty accessing the servers which host the files comprising the list. Try using a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, you may need to delete all corrupt local copies before trying again.
+
+**Wabbajack could not find m-Cy game folder:**
+
+FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If you own the game on _Steam,_ go back to the Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. **DO NOT ASK FOR HELP WITH PIRATED GAMES.**
 
 </details>
 
