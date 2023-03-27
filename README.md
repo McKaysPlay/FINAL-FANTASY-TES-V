@@ -162,6 +162,6 @@ Please remember this is an ALPHA build. Bugs, crashes, and glitches should be ex
 
 - Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
 - Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them. This should only be an issue if you picked a Vampire start - Run to the exit as quick as you can.
-- The game can forget to load your face properly. Open up the console with '`'. Then type 'showracemenu' and hit enter. Then close the console with '`' again. Then simply hit the Done key and accept the name of your character.
+- The game can forget to load your face properly. Open up the console with `tilde`. Then type `showracemenu` and hit enter. Then close the console with `tilde` again. Then simply hit the Done key and accept the name of your character.
   
 </details>
