@@ -156,7 +156,9 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 ## KNOWN ISSUES
 <details>
 Please remember this is an ALPHA build. Bugs, crashes, and glitches should be expected (and reported!)
-  
+
+
 - Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
-- Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them - if you picked a Vampire start - Run to the exit as quick as you can.
+- Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them. This should only be an issue if you picked a Vampire start - Run to the exit as quick as you can.
+  
 </details>
