@@ -2,7 +2,7 @@
 
 ![FINAL FANTASY TES V Title Image](https://github.com/McKaysPlay/FINAL-FANTASY-TES-V/blob/main/Final%20Fantasy%20TES%20V%20logo%20smaller.png)
 
-A Skyrim Wabbajack modlist
+A Skyrim Wabbajack modlist.
 
 ## INTRODUCTION
 
@@ -11,7 +11,8 @@ An actively curated collection of Skyrim mods that focus on game play, handsome 
 ## REQUIREMENTS
 <details>
   
-- Steam copy of Skyrim Anniversary Edition  
+- Steam version of the game 
+- Skyrim Anniversary Edition  
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [VectorPlexus Account](https://vectorplexis.com/)
 
@@ -115,6 +116,19 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 04. Click Run in the top right corner of Mod Organizer.
 05. Wait a few minutes while Skyrim boots up to the Main Menu
 06. Seriously, it takes a bit to get everything loaded
+
+</details>
+
+## AFTER YOU START A NEW GAME 
+<details>
+
+01. Create and name your character in Racemenu.
+2. Wait for **ALL** the messages in the top left corner of your screen to stop scrolling by, this will take a few minutes.
+3. Seriously, don't open any menus, don't save, don't talk to the little dragon, don't try to leave until there are no more messages scrolling in the top left corner of your screen.
+4. When the game asks Would you like to assign your attributes now? - Choose Yes.
+5. When the game asks you to Choose Difficulty Level for Ava - Choose Novice (30).
+6. Loot the room for gear, weapons, food, potions, and spell books.
+7. Open up the mod configuration menu (WIP to be coninuted)
 
 </details>
 
