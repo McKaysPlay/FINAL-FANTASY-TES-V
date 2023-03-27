@@ -122,14 +122,35 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 ## AFTER YOU START A NEW GAME 
 <details>
 
-01. Create and name your character in Racemenu.
+1. Create and name your character in Racemenu.
 2. Wait for **ALL** the messages in the top left corner of your screen to stop scrolling by, this will take a few minutes.
-3. Seriously, don't open any menus, don't save, don't talk to the little dragon, don't try to leave until there are no more messages scrolling in the top left corner of your screen.
-4. When the game asks Would you like to assign your attributes now? - Choose Yes.
-5. When the game asks you to Choose Difficulty Level for Ava - Choose Novice (30).
-6. Loot the room for gear, weapons, food, potions, and spell books.
-7. Open up the mod configuration menu (WIP to be coninuted)
-
+3. Click OK on the _you need to close the menu now._ popup.
+4. Click OK on the _MCM Recorder has finished playing_ popup.
+5. Seriously, don't open any menus, don't save, don't talk to the little dragon, don't try to leave until there are no more messages scrolling in the top left corner of your screen.
+6. When the game asks _Would you like to assign your attributes now?_ - Choose Yes.
+7. When the game asks you to _Choose Difficulty Level for Ava_ - Choose Novice (30).
+8. Loot the room for gear, weapons, food, potions, and spell books (feel free to take everything if you can carry it).
+9. Hit Esc to open up the Game Menu and click on _MOD CONFIGURATION_ menu.
+10. Scroll down to find and click on _Stay in the Fight_.
+11. Wait for the menus to load and then click on _Immortality_.
+12. _Under Pact with The Gods_, Check off _Active_.
+13. Close menus to save.
+14. Hit Tab and open _MAGIC_ menu.
+15. Navigate to _POWERS_ tab.
+16. Equip _Reflect_.
+17. Close menus.
+18. Hit Z to activate Reflect and choose a Skill to increase by 10 points from your background before you were an adventurer.
+19. Hit Tab to open _ITEMS_ menu.
+20. Read _Spellforge Manual_.
+21. Choose Yes to import spells, this will take a few minutes.
+22. Close menus.
+23. Wait until message shows up that all spells have been imported and click Ok.
+24. Click _Conjure Forge: Not Learned_ to learn how to conjure the Spellforge
+25. Click _Close_ to close menus.
+26. Talk to The Messenger (the little dragon) and choose your fate **picking a vampire start is not recommended - see known issues**
+27. Open and walk through the door, be patient as the game prepares and loads your world.
+28. Go forth and adventure!
+  
 </details>
 
 ## KNOWN ISSUES
@@ -137,4 +158,5 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 Please remember this is an ALPHA build. Bugs, crashes, and glitches should be expected (and reported!)
   
 - Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
+- Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them - if you picked a Vampire start - Run to the exit as quick as you can.
 </details>
