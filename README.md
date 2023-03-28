@@ -66,7 +66,7 @@ This can be accomplished in the System Settings for Windows. It is recommended t
 
 **Ensure Enough Free Storage Space**
 
-FINAL FANTASY TES V requires **223GB** of space for the install and **134GB** of space for the downloads. You can have these located on seperate drives, or on the same drive for a total space requirement of **357GB**. Finally, I don't recommend reduce the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer performance problems.
+FINAL FANTASY TES V requires **223GB** of space for the install and **134GB** of space for the downloads. You can have these located on seperate drives, or on the same drive for a total space requirement of **357GB**. Finally, I don't recommend reducing the free space on any drive below **15%** (the bar in _File Manager_ will turn red) or you will suffer performance problems.
   
 </details>
   
