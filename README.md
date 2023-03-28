@@ -127,7 +127,7 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 1. Wait for **ALL** the messages in the top left corner of your screen to stop scrolling by, this will take a few minutes.
 1. Click OK on the _you need to close the menu now._ popup.
 1. Click OK on the _MCM Configuration has finished playing_ popup.
-1. **Note** I forgot to upfade the MCM Configuration to remove an old mod _Complete Alchemy Crafting Overhaul_ choose Skip this Mod. 
+1. **Note** I forgot to update the MCM Configuration to remove an old mod _Complete Alchemy Crafting Overhaul_ choose Skip this Mod. 
 1. Seriously, don't open any menus, don't save, don't talk to the little dragon, don't try to leave until there are no more messages scrolling in the top left corner of your screen.
 1. When the game asks _Would you like to assign your attributes now?_ - Choose Yes.
 1. When the game asks you to _Choose Difficulty Level for Ava_ - Choose Novice (30).
