@@ -125,7 +125,7 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 1. Create and name your character in Racemenu.
 2. Wait for **ALL** the messages in the top left corner of your screen to stop scrolling by, this will take a few minutes.
 3. Click OK on the _you need to close the menu now._ popup.
-4. Click OK on the _MCM Recorder has finished playing_ popup.
+4. Click OK on the _MCM Configuration_ has finished playing_ popup.
 5. Seriously, don't open any menus, don't save, don't talk to the little dragon, don't try to leave until there are no more messages scrolling in the top left corner of your screen.
 6. When the game asks _Would you like to assign your attributes now?_ - Choose Yes.
 7. When the game asks you to _Choose Difficulty Level for Ava_ - Choose Novice (30).
@@ -158,7 +158,6 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 ## KNOWN ISSUES
 <details>
 Please remember this is an ALPHA build. Bugs, crashes, and glitches should be expected (and reported!)
-
 
 - Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
 - Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them. This should only be an issue if you picked a Vampire start - Run to the exit as quick as you can.
