@@ -82,11 +82,11 @@ It is advised to have ALL relevant folders (for `Wabbajack.exe`, `Steam`, the mo
 ##  PROBLEMS WITH WABBAJACK
 <details>
 
-There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
+There are a lot of different scenarios where _Wabbajack_ will produce an error. **Re-run _Wabbajack_ before seeking assistance.** _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
 
-I, McKaysPlay, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Vector Plexus_, or any other site about bugs that may result from this lists' use. Direct your questions to me, not the mod authors who should never be expected to support a modlist setup.
+I, McKaysPlay, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Vector Plexus_, or any other site about bugs that may result from this lists' use. Direct your questions to the [McKaysPlay Discord](https://discord.gg/HVprjjaqwq), not the mod authors who should never be expected to support a modlist setup.
 
 **Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
