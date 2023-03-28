@@ -11,10 +11,11 @@ An actively curated collection of Skyrim mods that focus on game play, handsome 
 ## REQUIREMENTS
 <details>
   
-- Steam version of the game 
-- Skyrim Anniversary Edition  
-- [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [VectorPlexus Account](https://vectorplexis.com/)
+* Steam version of the game installed
+* Skyrim SE Creation Kit installed
+* Skyrim Anniversary Edition installed
+* [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
+* [VectorPlexus Account](https://vectorplexis.com/)
 
 </details> 
  
@@ -110,12 +111,12 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 ## HOW TO LAUNCH THE GAME
 <details>
   
-01. Navigate to the location where you installed the Wabbajack list
-02. Open Mod Organizer.exe
-03. Use the drop down list in the top right corner of Mod Organizer to select _Final Fantasy TES V_
-04. Click Run in the top right corner of Mod Organizer.
-05. Wait a few minutes while Skyrim boots up to the Main Menu
-06. Seriously, it takes a bit to get everything loaded
+1. Navigate to the location where you installed the Wabbajack list
+1. Open Mod Organizer.exe
+1. Use the drop down list in the top right corner of Mod Organizer to select _Final Fantasy TES V_
+1. Click Run in the top right corner of Mod Organizer.
+1. Wait a few minutes while Skyrim boots up to the Main Menu
+1. Seriously, it takes a bit to get everything loaded
 
 </details>
 
@@ -154,8 +155,8 @@ FINAL FANTASY TES V will not work with a GOG or pirated version of the game. If 
 <details>
 Please remember this is an ALPHA build. Bugs, crashes, and glitches should be expected (and reported!)
 
-- Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
-- Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them. This should only be an issue if you picked a Vampire start - Run to the exit as quick as you can.
-- The game can forget to load your face properly. Open up the console with `tilde`. Then type `showracemenu` and hit enter. Then close the console with `tilde` again. Then simply hit the Done key and accept the name of your character.
+* Fire place textures are missing/purple (This is an Embers XD issue meaning I need to add another patch)
+* Powerful and aggressive creatures start spawning in Vampire Coven/Caves **VERY** quickly after entering them. This should only be an issue if you picked a Vampire start - Run to the exit as quick as you can.
+* The game can forget to load your face properly. Open up the console with `tilde`. Then type `showracemenu` and hit enter. Then close the console with `tilde` again. Then simply hit the Done key and accept the name of your character.
   
 </details>
